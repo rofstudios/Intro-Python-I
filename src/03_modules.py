@@ -23,9 +23,9 @@ print(f"OS platform, ", sys.platform)
 
 # Print out the version of Python you're using:
 # YOUR CODE HERE
-print("System Version: ", sys.version_info)
-for i in sys.version_info:
-    print("Version Breakdown: ", i)
+print("System Version: ", sys.version)
+# for i in sys.version_info:
+#     print("Version Breakdown: ", i)
 
 import os
 # See the docs for the OS module: https://docs.python.org/3.7/library/os.html

@@ -2,3 +2,9 @@
 # (try doing the same thing in the JS console and see what it outputs)
 
 # YOUR CODE HERE
+
+print("Using exponentiation operator, ", 2 ** 5)
+
+print("Using pow method, ", pow(2,5))
+
+#32
